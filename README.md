@@ -53,7 +53,7 @@ Terbuka untuk:
 
 📫 **Hubungi**:  
 - GitHub Issues / Discussions  
-- Email / WhatsApp (opsional ditambahkan)
+- Email : edusmartd@gmail.com
 
 ---
 
