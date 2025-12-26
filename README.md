@@ -1,60 +1,74 @@
-# 👋 Hi, I'm EduSmart Digital
+# 👋 Hi there, I'm EduSmart Digital
 
-![EduSmart Digital](./logo.png)
+![EduSmart Digital Logo](./logo.png)
 
-### 🚀 Solusi Digital untuk Guru & Siswa
+**EduSmart Digital** – Solusi Digital untuk Guru & Siswa 🇮🇩
 
-EduSmart Digital adalah inisiatif pengembangan **aplikasi pendidikan berbasis teknologi** yang berfokus pada:
-- 📚 Digitalisasi administrasi dan pembelajaran sekolah
-- 👨‍🏫 Mendukung guru dalam Kurikulum Merdeka & Deep Learning
-- 👩‍🎓 Membantu siswa belajar secara modern, interaktif, dan terstruktur
+Kami menciptakan aplikasi pendidikan dan solusi teknologi untuk memperkuat pembelajaran digital, administrasi sekolah, dan pengalaman guru & siswa yang lebih baik.
 
 ---
 
-## 🎯 Fokus Pengembangan
-- 🏫 **Sistem Informasi Sekolah**
-- 📝 **Aplikasi Jurnal & Administrasi Guru**
-- 📖 **LMS (Learning Management System)**
-- 📊 **Aplikasi Akademik & PPDB/SPMB**
-- 🤖 **AI Assistant untuk Pendidikan**
-- 📱 **Web & Mobile App Education**
+## 🎯 Tentang EduSmart Digital
+
+📍 **Lokasi:** Indonesia  
+💡 **Fokus:** Aplikasi Edukasi, Sistem Sekolah, LMS, AI Assistant  
+📌 **Target:** Guru, Siswa, Sekolah, Pengembang EdTech
+
+---
+
+## 🚀 Apa yang Kami Bangun
+
+### 🏫 Sistem Informasi Sekolah
+- PPDB / SPMB Online
+- Akademik & Nilai
+- Absensi & Jadwal
+
+### 📝 Solusi Guru
+- Jurnal Kegiatan & RPP Digital
+- Alat Administrasi Kurikulum
+- Modul Ajar Deep Learning
+
+### 📖 Pembelajaran Digital
+- LMS SMK & SMA
+- LKPD & Asesmen Interaktif
+- AI Assistant untuk Guru & Siswa
 
 ---
 
 ## 🛠️ Teknologi yang Digunakan
+
 ![Tech Stack](https://skillicons.dev/icons?i=html,css,js,php,laravel,flutter,firebase,mysql,nodejs,python,git)
 
-- **Frontend**: HTML, CSS, JavaScript, Flutter  
-- **Backend**: PHP (Laravel), Node.js  
-- **Database**: MySQL, Firebase  
-- **Tools**: Git, GitHub, REST API  
+- **Frontend:** HTML, CSS, JavaScript, Flutter  
+- **Backend:** Laravel (PHP), Node.js  
+- **Database:** MySQL, Firebase  
+- **Tools:** Git, GitHub, REST API
 
 ---
 
-## 📂 Contoh Project
-- 📌 Aplikasi Jurnal Kegiatan Guru (Kurikulum Merdeka)
-- 📌 Sistem PPDB / SPMB Online
-- 📌 LMS SMK berbasis Deep Learning
-- 📌 Generator Modul Ajar Otomatis
-- 📌 Aplikasi Akademik Sekolah (Web & Mobile)
+## 🌟 Project Unggulan
+
+| Nama Project | Deskripsi |
+|-------------|-----------|
+| **Jurnal Guru Digital** | Aplikasi lengkap untuk kegiatan guru dan kurikulum merdeka |
+| **SPMB Online** | Sistem penerimaan siswa baru berbasis web |
+| **LMS SMK EduSmart** | Platform pembelajaran interaktif |
+| **Generator Modul Ajar** | Alat otomatisasi pembuatan modul |
 
 ---
 
-## 🌱 Visi
-> *Mendorong transformasi digital pendidikan Indonesia melalui solusi yang sederhana, efektif, dan relevan.*
+## 💬 Hubungi
+
+📫 **GitHub:** https://github.com/edusmartd  
+📥 **Email:** edusmartd@gmail.com
 
 ---
 
-## 🤝 Kolaborasi
-Terbuka untuk:
-- Kerja sama pengembangan aplikasi pendidikan
-- Implementasi sistem sekolah
-- Pengembangan konten & modul ajar digital
+## 📈 Statistik GitHub
 
-📫 **Hubungi**:  
-- GitHub Issues / Discussions  
-- Email : edusmartd@gmail.com
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=edusmartd&show_icons=true&theme=default)
 
 ---
 
-⭐ *Jika project ini bermanfaat, jangan lupa beri star!*
+⭐ Jika Anda menyukai project kami, jangan lupa untuk memberi **⭐ Star** dan **Follow**!
+
